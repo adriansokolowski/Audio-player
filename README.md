@@ -1,3 +1,6 @@
 # Odtwarzacz-muzyki
 
-![Screenshot](preview.png)
+HTML, CSS, JavaScript
+
+![Odtwarzacz](preview.png)
+
